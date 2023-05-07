@@ -2,12 +2,12 @@
 title: Hi, I'm Koray.
 description: Koray Yenal's professional portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: http://korayyenal.github.io
+url: https://korayyenal.github.io
 
 # User settings
 username: Koray Yenal
 user_title:
-user_job_title: Data Science MSc student
+user_job_title: Ex-Google, Data Science MSc student
 email: koray.yenal [at] hec.ca
 twitter_username: korayyenal
 github_username:  korayyenal
